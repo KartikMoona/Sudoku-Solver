@@ -1,5 +1,3 @@
-# PRODIGY_SD_04
-
 # Sudoku Solver
 
 A Sudoku Solver implemented in Java using the backtracking algorithm. The program takes an unsolved Sudoku grid as input, fills in the missing numbers, and displays the completed Sudoku grid.
